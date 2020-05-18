@@ -32,7 +32,7 @@ if (richting == 'A') {
         document.write("<img src = 'images/gameover.png'  />")
     }
 } else {
-    var engineeringA1 = (prompt(" je hebt verveelde docenten, maar het gaat nog          A: je gaat gewoon over en je krijgt een 'leuke' klas met veel gangsters die jij altijd wel grappig vindt    -     B: je je gaat gewoon over naar mbo 2, maar kiest er dan weer toch voor bouw mbo 2 "))
+    var engineeringA1 = (prompt(" je hebt verveelde docenten, maar het gaat nog    \n      A: je gaat gewoon over en je krijgt een 'leuke' klas met veel gangsters die jij altijd wel grappig vindt    -     B: je je gaat gewoon over naar mbo 2, maar kiest er dan weer toch voor bouw mbo 2 "))
 
     if (engineeringA1 == 'A') {
         var engineeringA2 = alert("het is een klas met veel 'foute jongens' je gaat jatten de Plus, werkt als drugsverkoper en op gegeven moment wordt je gedood, omdat je te weinig gram aflevert                      ¡GAME OVER!")
